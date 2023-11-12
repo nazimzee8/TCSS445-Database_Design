@@ -1,0 +1,8 @@
+.now
+.next
+/node_modules/
+/.next/
+__pycache__
+/__pycache__/
+config.py
+/config.py/
